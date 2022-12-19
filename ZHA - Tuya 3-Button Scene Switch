@@ -9,7 +9,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TZ3000_qzjcsmar
+          manufacturer: _TZ3000_w8jwkczz
           model: TS0043
     button_one_short_press:
       name: Single Press
